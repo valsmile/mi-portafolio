@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+   
+.icono {
+    font-family: 'Bangers', cursive;
+    font-size: 40px !important;
+}
+
+header {
+    background-image: url('../img/bg-hero-01.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero {
+    padding-top: 45%;
+}
+
+.nombre {
+    font-family: 'Bangers', cursive;
+    font-size: 100px !important;
+    color: #ffffff;
+}
+
+.color {
+    background-color:rgb(51, 2, 58);
+}
+
+a {
+    color:white;
+}
